@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/settings_img.png</file>
+        <file>img/search_icon.png</file>
+    </qresource>
+</RCC>
